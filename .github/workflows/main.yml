@@ -16,7 +16,7 @@ jobs:
           figma_file_key: ${{ secrets.FIGMA_FILE_KEY }}
           alias_component_set_id: ${{ secrets.ALIAS_COMPONENT_SET_ID }}
           sprite_component_set_id: ${{ secrets.SPRITE_COMPONENT_SET_ID }}
-          theme_name: 'Phinger Cursors'
+          theme_name: 'Phinger Cursors Gruvbox Material'
           theme_comment: 'The most over engineered cursor theme.'
           theme_directory: 'build/themes'
           export_directory: 'build/exports'

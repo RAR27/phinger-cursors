@@ -4,7 +4,7 @@
 <rect fill="white" x="4" y="11" width="24" height="10"/>
 <path d="M27 16L18.5 12L17.5 15L5 15.5L5 16.5L17.5 17L18.5 20L27 16Z"/>
 </mask>
-<path d="M27 16L18.5 12L17.5 15L5 15.5L5 16.5L17.5 17L18.5 20L27 16Z" fill="#AF99BF"/>
+<path d="M27 16L18.5 12L17.5 15L5 15.5L5 16.5L17.5 17L18.5 20L27 16Z" fill="#DFC5FE"/>
 <path d="M27 16L18.5 12L17.5 15L5 15.5L5 16.5L17.5 17L18.5 20L27 16Z" stroke="#32302F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3498)"/>
 </g>
 <defs>

@@ -1,8 +1,8 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_182_7029)" filter="url(#filter0_d_182_7029)">
-<circle cx="12" cy="12.5" r="7" fill="#EA6962" stroke="#AF99BF" stroke-linejoin="round"/>
+<circle cx="12" cy="12.5" r="7" fill="#EA6962" stroke="#DFC5FE" stroke-linejoin="round"/>
 <g clip-path="url(#clip1_182_7029)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M15.8103 10.104L9.60399 16.3102C11.3426 17.4057 13.6677 17.1963 15.182 15.682C16.6963 14.1676 16.9057 11.8425 15.8103 10.104ZM14.396 8.68976L8.18978 14.896C7.09429 13.1574 7.30371 10.8323 8.81804 9.31802C10.3324 7.80369 12.6575 7.59427 14.396 8.68976Z" fill="#AF99BF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.8103 10.104L9.60399 16.3102C11.3426 17.4057 13.6677 17.1963 15.182 15.682C16.6963 14.1676 16.9057 11.8425 15.8103 10.104ZM14.396 8.68976L8.18978 14.896C7.09429 13.1574 7.30371 10.8323 8.81804 9.31802C10.3324 7.80369 12.6575 7.59427 14.396 8.68976Z" fill="#DFC5FE"/>
 </g>
 </g>
 <defs>

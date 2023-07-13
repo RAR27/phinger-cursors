@@ -5,9 +5,9 @@
 <path d="M14.2 14.8782L2.99995 3L2.99995 19.2437L6.99993 18.736L10.3999 23L11.2981 22.5913L10.9999 17.2132L14.2 14.8782Z"/>
 </mask>
 <path d="M14.2 14.8782L2.99995 3L2.99995 19.2437L6.99993 18.736L10.3999 23L11.2981 22.5913L10.9999 17.2132L14.2 14.8782Z" fill="#32302F"/>
-<path d="M14.2 14.8782L2.99995 3L2.99995 19.2437L6.99993 18.736L10.3999 23L11.2981 22.5913L10.9999 17.2132L14.2 14.8782Z" stroke="#DDC7A1" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6980)"/>
-<circle cx="22.5" cy="22.5" r="7" fill="#A9B665" stroke="#DDC7A1" stroke-linejoin="round"/>
-<path d="M23 19H22V22H19V23H22V26H23V23H26V22H23V19Z" fill="#DDC7A1"/>
+<path d="M14.2 14.8782L2.99995 3L2.99995 19.2437L6.99993 18.736L10.3999 23L11.2981 22.5913L10.9999 17.2132L14.2 14.8782Z" stroke="#AF99BF" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6980)"/>
+<circle cx="22.5" cy="22.5" r="7" fill="#A9B665" stroke="#AF99BF" stroke-linejoin="round"/>
+<path d="M23 19H22V22H19V23H22V26H23V23H26V22H23V19Z" fill="#AF99BF"/>
 </g>
 <defs>
 <filter id="filter0_d_182_6980" x="-2" y="-2" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

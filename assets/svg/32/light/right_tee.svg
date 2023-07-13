@@ -4,7 +4,7 @@
 <rect fill="white" x="15" y="4" width="15" height="23"/>
 <path d="M29 26L29 5L28 5L28 15L16 15L16 16L28 16L28 26L29 26Z"/>
 </mask>
-<path d="M29 26L29 5L28 5L28 15L16 15L16 16L28 16L28 26L29 26Z" fill="#DDC7A1"/>
+<path d="M29 26L29 5L28 5L28 15L16 15L16 16L28 16L28 26L29 26Z" fill="#AF99BF"/>
 <path d="M29 26L29 5L28 5L28 15L16 15L16 16L28 16L28 26L29 26Z" stroke="#32302F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3546)"/>
 </g>
 <defs>

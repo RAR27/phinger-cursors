@@ -5,9 +5,9 @@
 <path d="M14.2 14.8782L2.99995 3L2.99995 19.2437L6.99993 18.736L10.3999 23L11.2981 22.5913L10.9999 17.2132L14.2 14.8782Z"/>
 </mask>
 <path d="M14.2 14.8782L2.99995 3L2.99995 19.2437L6.99993 18.736L10.3999 23L11.2981 22.5913L10.9999 17.2132L14.2 14.8782Z" fill="#32302F"/>
-<path d="M14.2 14.8782L2.99995 3L2.99995 19.2437L6.99993 18.736L10.3999 23L11.2981 22.5913L10.9999 17.2132L14.2 14.8782Z" stroke="#DDC7A1" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6998)"/>
-<circle cx="22.5" cy="22.5" r="7" fill="#A9B665" stroke="#DDC7A1" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M23 19L26.5 22.5L23 26L23 23.5H22.9863H21C20.4477 23.5 20 23.9477 20 24.5V25.872C19.1261 25.5631 18.5 24.7297 18.5 23.75C18.5 22.5074 19.5074 21.5 20.75 21.5H20.751L23 21.5L23 19Z" fill="#DDC7A1"/>
+<path d="M14.2 14.8782L2.99995 3L2.99995 19.2437L6.99993 18.736L10.3999 23L11.2981 22.5913L10.9999 17.2132L14.2 14.8782Z" stroke="#AF99BF" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6998)"/>
+<circle cx="22.5" cy="22.5" r="7" fill="#A9B665" stroke="#AF99BF" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M23 19L26.5 22.5L23 26L23 23.5H22.9863H21C20.4477 23.5 20 23.9477 20 24.5V25.872C19.1261 25.5631 18.5 24.7297 18.5 23.75C18.5 22.5074 19.5074 21.5 20.75 21.5H20.751L23 21.5L23 19Z" fill="#AF99BF"/>
 </g>
 <defs>
 <filter id="filter0_d_182_6998" x="-2" y="-2" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

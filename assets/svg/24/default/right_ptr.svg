@@ -4,8 +4,8 @@
 <rect fill="white" x="12" y="2" width="10" height="16"/>
 <path d="M13 11.3L21 3L21 14.5L18 14L15.7 17L15 16.7L15.3 13L13 11.3Z"/>
 </mask>
-<path d="M13 11.3L21 3L21 14.5L18 14L15.7 17L15 16.7L15.3 13L13 11.3Z" fill="#AF99BF"/>
-<path d="M13 11.3L21 3L21 14.5L18 14L15.7 17L15 16.7L15.3 13L13 11.3Z" stroke="#D4BE98" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6973)"/>
+<path d="M13 11.3L21 3L21 14.5L18 14L15.7 17L15 16.7L15.3 13L13 11.3Z" fill="#3C3836"/>
+<path d="M13 11.3L21 3L21 14.5L18 14L15.7 17L15 16.7L15.3 13L13 11.3Z" stroke="#AF99BF" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6973)"/>
 </g>
 <defs>
 <filter id="filter0_d_182_6973" x="-2" y="-2" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

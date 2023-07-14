@@ -7,14 +7,14 @@
 <path d="M11 14H12V20H11V14Z"/>
 <path d="M3 12H9V11H3V12Z"/>
 </mask>
-<path d="M11 3V9H12V3H11Z" fill="#AF99BF"/>
-<path d="M14 12V11H20V12H14Z" fill="#AF99BF"/>
-<path d="M11 14H12V20H11V14Z" fill="#AF99BF"/>
-<path d="M3 12H9V11H3V12Z" fill="#AF99BF"/>
-<path d="M11 3V9H12V3H11Z" stroke="#D4BE98" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
-<path d="M14 12V11H20V12H14Z" stroke="#D4BE98" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
-<path d="M11 14H12V20H11V14Z" stroke="#D4BE98" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
-<path d="M3 12H9V11H3V12Z" stroke="#D4BE98" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
+<path d="M11 3V9H12V3H11Z" fill="#3C3836"/>
+<path d="M14 12V11H20V12H14Z" fill="#3C3836"/>
+<path d="M11 14H12V20H11V14Z" fill="#3C3836"/>
+<path d="M3 12H9V11H3V12Z" fill="#3C3836"/>
+<path d="M11 3V9H12V3H11Z" stroke="#AF99BF" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
+<path d="M14 12V11H20V12H14Z" stroke="#AF99BF" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
+<path d="M11 14H12V20H11V14Z" stroke="#AF99BF" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
+<path d="M3 12H9V11H3V12Z" stroke="#AF99BF" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
 </g>
 <defs>
 <filter id="filter0_d_182_7077" x="-2" y="-2" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

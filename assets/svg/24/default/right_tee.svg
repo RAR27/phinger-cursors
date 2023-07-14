@@ -4,7 +4,7 @@
 <rect fill="white" x="11" y="3" width="11" height="17"/>
 <path d="M21 19L21 4L20 4L20 11L12 11L12 12L20 12L20 19L21 19Z"/>
 </mask>
-<path d="M21 19L21 4L20 4L20 11L12 11L12 12L20 12L20 19L21 19Z" fill="#32302F"/>
+<path d="M21 19L21 4L20 4L20 11L12 11L12 12L20 12L20 19L21 19Z" fill="#3C3836"/>
 <path d="M21 19L21 4L20 4L20 11L12 11L12 12L20 12L20 19L21 19Z" stroke="#DDC7A1" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_184_1575)"/>
 </g>
 <defs>

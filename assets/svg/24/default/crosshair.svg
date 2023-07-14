@@ -7,10 +7,10 @@
 <path d="M11 14H12V20H11V14Z"/>
 <path d="M3 12H9V11H3V12Z"/>
 </mask>
-<path d="M11 3V9H12V3H11Z" fill="#32302F"/>
-<path d="M14 12V11H20V12H14Z" fill="#32302F"/>
-<path d="M11 14H12V20H11V14Z" fill="#32302F"/>
-<path d="M3 12H9V11H3V12Z" fill="#32302F"/>
+<path d="M11 3V9H12V3H11Z" fill="#3C3836"/>
+<path d="M14 12V11H20V12H14Z" fill="#3C3836"/>
+<path d="M11 14H12V20H11V14Z" fill="#3C3836"/>
+<path d="M3 12H9V11H3V12Z" fill="#3C3836"/>
 <path d="M11 3V9H12V3H11Z" stroke="#DDC7A1" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
 <path d="M14 12V11H20V12H14Z" stroke="#DDC7A1" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
 <path d="M11 14H12V20H11V14Z" stroke="#DDC7A1" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
